@@ -1,0 +1,15 @@
+# Ignore VSCode files
+.vscode/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Python junk files
+*.pyc
+__pycache__/
+
+# Ignore model files
+*.pth
+
+# Ignore data files
+*.conll
